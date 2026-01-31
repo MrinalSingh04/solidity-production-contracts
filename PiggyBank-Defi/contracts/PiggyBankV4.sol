@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.26;
 
-// LEVEL 4 — Personal Time-Locked PiggyBank with Penalty
+// LEVEL 4 — Personal Time-Locked PiggyBank with Penalty on Early Withdrawal
 
 contract PiggyBankV4 {
     struct depositInfo {
