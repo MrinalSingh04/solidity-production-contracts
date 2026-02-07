@@ -8,7 +8,7 @@ where each contract is built in **levels**, from basic primitives to
 **fully-featured dApp-ready systems**.
  
 ---   
-    
+     
 ## 🎯 Purpose 
 
 Most Solidity repositories show isolated examples.    
