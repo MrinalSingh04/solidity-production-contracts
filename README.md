@@ -4,7 +4,7 @@ A collection of **production-grade Solidity smart contracts** designed as
 real-world **DeFi, NFT, and Web3 protocol building blocks**.
  
 This repository is not a set of tutorials — it is a **protocol engineering lab**  
-where each contract is built in **levels**, from basic primitives to
+where each contract is built in **levels**, from basic primitives to 
 **fully-featured dApp-ready systems**.
  
 ---   
