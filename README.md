@@ -9,7 +9,7 @@ where each contract is built in **levels**, from basic primitives to
   
 ---     
       
-## 🎯 Purpose 
+## 🎯 Purpose  
  
 Most Solidity repositories show isolated examples.    
 This repo focuses on **how real protocols are engineered step-by-step**.
