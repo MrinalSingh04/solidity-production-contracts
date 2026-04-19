@@ -4,14 +4,14 @@ A collection of **production-grade Solidity smart contracts** designed as
 real-world **DeFi, NFT, and Web3 protocol building blocks**.
  
 This repository is not a set of tutorials — it is a **protocol engineering lab**  
-where each contract is built in **levels**, from basic primitives to
-**fully-featured dApp-ready systems**.
-
----
-
-## 🎯 Purpose
-
-Most Solidity repositories show isolated examples.  
+where each contract is built in **levels**, from basic primitives to 
+**fully-featured dApp-ready systems**.  
+  
+---     
+      
+## 🎯 Purpose   
+ 
+Most Solidity repositories show isolated examples.    
 This repo focuses on **how real protocols are engineered step-by-step**.
 
 Every system here evolves from:
